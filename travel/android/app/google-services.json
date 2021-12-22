@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "405455868732",
+    "project_id": "travel-df41b",
+    "storage_bucket": "travel-df41b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405455868732:android:0e0ca915f823a737ae0439",
+        "android_client_info": {
+          "package_name": "com.dts.travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405455868732-hl57elq6atk2l3hmj99e2skc4c3ked62.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8wnR6XfnnoSqjEXjHuWq3iCxcWb_kCKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405455868732-hl57elq6atk2l3hmj99e2skc4c3ked62.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

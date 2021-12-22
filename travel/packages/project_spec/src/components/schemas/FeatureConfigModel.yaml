@@ -1,0 +1,17 @@
+
+type: object
+description: FeatureConfigModel
+properties:
+  id:
+    type: string
+  title:
+    type: string
+  descriptions:
+    type: string
+    default: ''
+  image:
+    type: string
+    default: ''
+  status:
+    type: boolean
+    default: false

@@ -1,0 +1,93 @@
+// GENERATED CODE - DO NOT MODIFY BY HAND
+
+part of 'error_response.dart';
+
+// **************************************************************************
+// BuiltValueGenerator
+// **************************************************************************
+
+const ErrorResponse _$unsupported = const ErrorResponse._('unsupported');
+const ErrorResponse
+    _$leftCurlyBracketDoubleQuoteErrorAws100ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS100DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws100DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket =
+    const ErrorResponse._(
+        'leftCurlyBracketDoubleQuoteErrorAws100ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS100DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws100DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket');
+const ErrorResponse
+    _$leftCurlyBracketDoubleQuoteErrorAws101ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS101DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws101DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket =
+    const ErrorResponse._(
+        'leftCurlyBracketDoubleQuoteErrorAws101ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS101DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws101DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket');
+
+ErrorResponse _$valueOf(String name) {
+  switch (name) {
+    case 'unsupported':
+      return _$unsupported;
+    case 'leftCurlyBracketDoubleQuoteErrorAws100ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS100DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws100DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket':
+      return _$leftCurlyBracketDoubleQuoteErrorAws100ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS100DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws100DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket;
+    case 'leftCurlyBracketDoubleQuoteErrorAws101ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS101DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws101DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket':
+      return _$leftCurlyBracketDoubleQuoteErrorAws101ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS101DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws101DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket;
+    default:
+      return _$unsupported;
+  }
+}
+
+final BuiltSet<ErrorResponse> _$values =
+    new BuiltSet<ErrorResponse>(const <ErrorResponse>[
+  _$unsupported,
+  _$leftCurlyBracketDoubleQuoteErrorAws100ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS100DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws100DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket,
+  _$leftCurlyBracketDoubleQuoteErrorAws101ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS101DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws101DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket,
+]);
+
+class _$ErrorResponseMeta {
+  const _$ErrorResponseMeta();
+  ErrorResponse get unsupported => _$unsupported;
+  ErrorResponse
+      get leftCurlyBracketDoubleQuoteErrorAws100ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS100DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws100DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket =>
+          _$leftCurlyBracketDoubleQuoteErrorAws100ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS100DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws100DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket;
+  ErrorResponse
+      get leftCurlyBracketDoubleQuoteErrorAws101ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS101DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws101DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket =>
+          _$leftCurlyBracketDoubleQuoteErrorAws101ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS101DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws101DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket;
+  ErrorResponse valueOf(String name) => _$valueOf(name);
+  BuiltSet<ErrorResponse> get values => _$values;
+}
+
+abstract class _$ErrorResponseMixin {
+  // ignore: non_constant_identifier_names
+  _$ErrorResponseMeta get ErrorResponse => const _$ErrorResponseMeta();
+}
+
+Serializer<ErrorResponse> _$errorResponseSerializer =
+    new _$ErrorResponseSerializer();
+
+class _$ErrorResponseSerializer implements PrimitiveSerializer<ErrorResponse> {
+  static const Map<String, Object> _toWire = const <String, Object>{
+    'unsupported': 'unsupported',
+    'leftCurlyBracketDoubleQuoteErrorAws100ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS100DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws100DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket':
+        '{\"ErrorAws100Response\":{\"example\":[{\"code\":\"ERROR_AWS_100\",\"message\":\"Error Aws 100\",\"parameters\":{\"name\":\"nelo\"}}]}}',
+    'leftCurlyBracketDoubleQuoteErrorAws101ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS101DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws101DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket':
+        '{\"ErrorAws101Response\":{\"example\":[{\"code\":\"ERROR_AWS_101\",\"message\":\"Error Aws 101\",\"parameters\":{\"name\":\"nelo\"}}]}}',
+  };
+  static const Map<Object, String> _fromWire = const <Object, String>{
+    'unsupported': 'unsupported',
+    '{\"ErrorAws100Response\":{\"example\":[{\"code\":\"ERROR_AWS_100\",\"message\":\"Error Aws 100\",\"parameters\":{\"name\":\"nelo\"}}]}}':
+        'leftCurlyBracketDoubleQuoteErrorAws100ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS100DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws100DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket',
+    '{\"ErrorAws101Response\":{\"example\":[{\"code\":\"ERROR_AWS_101\",\"message\":\"Error Aws 101\",\"parameters\":{\"name\":\"nelo\"}}]}}':
+        'leftCurlyBracketDoubleQuoteErrorAws101ResponseDoubleQuoteColonLeftCurlyBracketDoubleQuoteExampleDoubleQuoteColonLeftSquareBracketLeftCurlyBracketDoubleQuoteCodeDoubleQuoteColonDoubleQuoteERRORAWS101DoubleQuoteCommaDoubleQuoteMessageDoubleQuoteColonDoubleQuoteErrorAws101DoubleQuoteCommaDoubleQuoteParametersDoubleQuoteColonLeftCurlyBracketDoubleQuoteNameDoubleQuoteColonDoubleQuoteNeloDoubleQuoteRightCurlyBracketRightCurlyBracketRightSquareBracketRightCurlyBracketRightCurlyBracket',
+  };
+
+  @override
+  final Iterable<Type> types = const <Type>[ErrorResponse];
+  @override
+  final String wireName = 'ErrorResponse';
+
+  @override
+  Object serialize(Serializers serializers, ErrorResponse object,
+          {FullType specifiedType = FullType.unspecified}) =>
+      _toWire[object.name] ?? object.name;
+
+  @override
+  ErrorResponse deserialize(Serializers serializers, Object serialized,
+          {FullType specifiedType = FullType.unspecified}) =>
+      ErrorResponse.valueOf(
+          _fromWire[serialized] ?? (serialized is String ? serialized : ''));
+}
+
+// ignore_for_file: always_put_control_body_on_new_line,always_specify_types,annotate_overrides,avoid_annotating_with_dynamic,avoid_as,avoid_catches_without_on_clauses,avoid_returning_this,deprecated_member_use_from_same_package,lines_longer_than_80_chars,omit_local_variable_types,prefer_expression_function_bodies,sort_constructors_first,test_types_in_equals,unnecessary_const,unnecessary_new

@@ -1,0 +1,20 @@
+# dart_api_provider.model.RegisterParameters
+
+## Load the model package
+```dart
+import 'package:dart_api_provider/dart_api_provider.dart';
+```
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**password** | **String** |  | 
+**clientSecret** | **String** |  | 
+**scope** | **String** |  | 
+**phoneNumber** | **String** |  | [optional] 
+**email** | **String** |  | [optional] 
+**clientId** | **String** |  | [default to 'mobile']
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
